@@ -1,4 +1,4 @@
 # aula02
 
-Luccas Adorno Albuquerque
+Luccas Adorno Albuquerque -
 RA: 2201890
